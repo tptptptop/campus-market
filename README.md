@@ -12,7 +12,7 @@
     （4）站点管理：友情链接管理、站点基本信息（站点名称、logo、版权等）设置。
 ## 效果展示
 ### 前台登陆页面
-(https://edu-avatar1.oss-cn-beijing.aliyuncs.com/tp/lALPGo_k9Bk_p1XNAhfNB1s_1883_535.png)
+![avatar](https://edu-avatar1.oss-cn-beijing.aliyuncs.com/tp/lALPGo_k9Bk_p1XNAhfNB1s_1883_535.png)
 ### 前台首页)
 https://edu-avatar1.oss-cn-beijing.aliyuncs.com/tp/lALPGo_k9Bk_p1XNAhfNB1s_1883_535.png
 ### 前台首页
